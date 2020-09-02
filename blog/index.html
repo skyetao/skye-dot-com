@@ -15,7 +15,7 @@ title: Blog
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <h3 class="title-of-post">
             <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
+              {{ post.title | escape | markdownify }}
             </a>
           </h3>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
