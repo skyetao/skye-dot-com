@@ -4,3 +4,34 @@
 .post-excerpt {
     margin-top: 10px;
 }
+
+// fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Forum&family=PT+Sans:ital,wght@0,700;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+p, li {
+    font-family: "PT Serif";
+}
+
+.site-title {
+    font-family: "Fugaz One";
+}
+
+.post-title p, .title-of-post p {
+    font-family: "PT Sans";
+    font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6, a.page-link {
+    font-family: "PT Sans";
+}
+
+a {
+    color:#5eb572;
+}
+
+a:visited {
+    color: #5eb572;
+}
