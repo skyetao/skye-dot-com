@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Interruption, Disruption"
+---
+
+In *Like a Rolling Stone: Bob Dylan at the Crossroads*, a biography of Bob Dylan's "Like a Rolling Stone" and its impacts on Dylan and America, Greil Marcus writes "'Like a Rolling Stone' was not a record, it was an event...of the drama created by the performance itself" (32). Through this framework, Marcus establishes "Like a Rolling Stone" as a cultural interruption, a static yet elusive sonic moment, an event we are constantly chasing yet is immune to the nostalgia we place upon it.  
+
+## 1. Interruption
+
+  In describing the event of "Like a Rolling Stone"'s release, Marcus writes "It defined the summer, but like the Watts riots the performance also interrupted it—as, ever since, the song has interrupted whatever might be taking place around it as it plays" (150). Marcus draws an interesting distinction here, carefully defining "Like a Rolling Stone" as an "incident" designed to "leave the world not quite the same" which he distinguishes from outwardly trying to change the world because to try and change the world implies the maker has a specific goal in mind (151). Instead, Marcus sees "Like a Rolling Stone" as "drawing a line...to see who the song revealed to be on which side of the line, and who might cross it," arguing that "the song as an event transformed its listeners into witnesses" (151). Marcus creates an interesting framework of the cultural interruption as something which has intentionality but not necessarily an agenda: the interruption seeks to alter the world, but places the agency on the listener as witness to drive the direction of that alteration. 
+  
+  For a while now I've been thinking about the notion of sonic *disruption*, attempting to define what this might look like in the cultural landscape. Marcus' offering of "interruption" provides a compelling sounding board for this. I would argue that in contrast to an interruptions passivity, a disruption has a clear agenda of change. Where an interruption places agency on the listener to define its impact, a disruption lays out its impact before the listener and calls on them to engage with it on its own terms. 
+
+  To look at this in practice, let's think about Dylan's 1966 tour in conversation with the traveling tent shows of Ma Rainey and Bessie Smith which Paige McGinley defines as the origins of blues. Both tours played formative roles in American cultural dialogue, shifting assumptions of the status quo for music and performance write large, but also for the performers themselves. Definitionally as tours they carried these micro-fractures around from town to town. As Marcus notes of Dylan's '66 tour, however, the nature of Dylan's electric interruption built an antagonistic push-and-pull within the audience. Audiences booed, cheered, shouted "Judas!" Dylan's interruption worked in its attempts to "draw a line," but its lack of direction caused a frenetic, undirected energy within the listeners. They had agency of change but no direction to put it. I would argue that on the similar but reverse side of this coin Ma Rainey and Bessie Smith were perhaps disrupting: their aims to redefine the black woman's role in American society were more precise and directed. 
+
+  Here we also have a clear political distinction. "Like a Rolling Stone" is not taking up any particular political work, where the early blueswoman performances were. Is it possible to have a sonic disruption that is a-political, one which has a direction but not necessarily a political agenda? 
+
+## 2. Mutation
+
+In the framework of an event which Marcus establishes for "Like a Rolling Stone" he always places the ground-zero of the action on the recording, the "incident" in the recording studio. He creates it as a simultaneous static instance which Dylan as a performer, and us as listeners, are constantly chasing, while also remaining entirely mutable and elusive. I wonder how this might play in with the distinction between an interruption and a disruption? 
+
+In "Nina Simone's Triple Play," Daphne Brooks writes a very different narrative of "Mississippi Goddam" in which she defines key performances, and their recordings, as distinct events, shaping and re-shaping the song, audience, and singer over time. Both Brooks and Marcus are defining a key facet of instability to our notions of "Like a Rolling Stone" and "Mississippi Goddam," but where "Mississippi Goddam" mutates into fixed points that disrupt the cultural moment of their instantiation (the Carnegie Hall performance or performing the song after MLK's assassination), "Like a Rolling Stone" constantly eludes, shedding the undirected energy of interruption across decades. 
+
+## 3. Nostalgia
+
+Marcus argues that this constant mutability of "Like a Rolling Stone" makes it immune to nostalgia. We can't yearn for it because we never really knew what it was. We are constantly chasing its authenticity but do so in a vacuum. I would argue the opposite, that in fact because "Like a Rolling Stone" remains undefined, that we are constantly chasing what we want it to be, what we hope it to be, what we hope it will make of us in a particular moment, it embodies a constant pursuit of nostalgia. "Like a Rolling Stone"'s role as an event, not just the singular recording, but the subsequent mythology of Newport Folk and the infamous "Judas!" has given it a shimmer of knowability: we may not truly be able to pinpoint it, but we feel like we can, and thus we keep searching for it not as mutable interruption, but as something with defined direction we think we can hold onto. 
+
+## Sidenote thoughts:
+1) Both Greil Marcus and Ellen Willis place "Like a Rolling Stone" in specific counterpoint to white pop music of the 60s, specifically the Beatles. I'm interested in why they both present Dylan's turn away from folk music and towards electric as an intentional turn towards commercial pop a la the Beatles? The assumption that Dylan was explicitly trying to make a pop song when he made "Like a Rolling Stone" is interesting. Perhaps this is literal 2020 hindsight, but "Like a Rolling Stone" feels like it's chasing something completely different and unknown. 
+2) Persona: Marcus and Willis (and many others) have defined Dylan's move towards electric as a critical disruption of Dylan's own persona, shifting the course of his work for the rest of his career. Per the earlier thought on pop, Marcus and Willis feel there is clear defined path that Dylan is putting himself on with this shift. I wonder if it is truly that defined as a disruption, or was he interrupting himself: causing chaos with no agenda just to see where he ended up falling? I wonder how this interplays with "Like a Rolling Stone" as a cultural interruption writ large? 
+
+### Works Read
+
+- Marcus, Greil. *Like a Rolling Stone: Dylan at the Crossroads*. Public Affairs, 2005.
