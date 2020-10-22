@@ -1,0 +1,17 @@
+---
+layout: post
+title: "On Asterisks"
+---
+
+In *Imagine the Sound: Experimental African American Literature after Civil Rights*, Carter Mathes explores sound as a "conceptual field" used to read a "radical projection of African American experience" (6) citing sound as a useful point of exploration for African American writers to project resistance outside of the "ocularcentric" authority of the white world (3). For Mathes, whose primary focus is on sound as it is construed within the confines of the literary, sound is not radical in and of itself, but rather holds a unique capacity to signify the radical. If we were to read Frederick Douglass' description of Aunt Hester's scream in this lens, for example, we might say that it is not Aunt Hester's scream itself that is disruptive, but rather what the scream signifies to Aunt Hester, or even more accurately, to Douglass as witness, that inhabits a space of radical disruption. 
+
+Mathes collapses literary modes of sound into an all-encompassing notion, defining it as music, vocalization, even lyricism of the prose itself. In his framework these are all potential tools for the Black author to project counter-notions of Blackness into a text. Sound provides this space in a way other modalities cannot in its capacity to push against notions of temporality, linearity, and fixedness. Aunt Hester's scream provides a tangible moment of transformation for Douglass, and by extension the reader, while also projecting the cyclical nature of these violent encounters. The scream is able to be fixed and floating, atemporal and linear, pain and pleasure. In Mathes framework, sound is not beholden to some of the same rules as the visual, for example, and thus becomes and exceptional location of radicalism within literature. 
+
+As Nina Sun Eidsheim and Kyle Devine have pointed out, however, sound—from abstract vocalization to music, across the many mediums it comes to us in—is not alone excepted from racialized, gendered, politicized readings. I wonder if Mathes framework, while compelling, perpetuates a sort of sonic exceptionalism in the form of the literary. I would argue that just because a sound is written and not heard does not mean that it isn't indebted to the act of listening, and therefore beholden to the same pitfalls our listening culture has created. 
+
+Returning to the case of Aunt Hester, we should consider the role of sound as a radical projection for Douglass as witness and author, for ourselves as reader, for the Master as hearer, but also interrogate the scream's role as radical for Aunt Hester herself as issuer. In *In the Wake*, Christina Sharpe writes of the "Trans*Atlantic," highlighting the role of the asterisk "as the wildcard," and that which "holds the place open for thinking (from and into that position):" a place to mark possibility within the Black experience (30). I'm interested in thinking about Aunt Hester's scream as performing the same aural sensation of this visual asterisk: signifying possibility, projecting radicalism, but also asking us to interrogate its multifaceted functions as working both "from and into" its own disruption. 
+
+### Works Read
+
+- Mathes, Carter. *Imagine the Sound: Experimental African American Literature after Civil Rights*. University of Minnesota Press, 2015.
+- Sharpe, Christina. *In the Wake: On Blackness and Being*. Duke University Press, 2016.
