@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "On "Dylan Exceptionalism""
+title: 'On "Dylan Exceptionalism"'
 ---
 
 The Gospel Period. The Christian Trilogy. Born-Again Bob. There are a myriad of ways to refer to Dylan's 1979-1981 songmaking period, all of which apply, and none of which quite hit the mark. Like other pivotal points in Dylan's artistic career, this period—if it can even be confined to one discreet set of time or albums—defies concrete definition. 
